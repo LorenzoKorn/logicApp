@@ -11,4 +11,6 @@
     <string name="f_t">F^T</string>
     <string name="f_f">F^F</string>
     <string name="confirm">Confirm</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
 </resources>
