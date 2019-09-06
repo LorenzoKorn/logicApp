@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">LogicApp</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="a">A</string>
+    <string name="f">F</string>
+    <string name="t">T</string>
+    <string name="b">B</string>
+    <string name="a_b">A^B</string>
+    <string name="t_t">T^T</string>
+    <string name="t_f">T^F</string>
+    <string name="f_t">F^T</string>
+    <string name="f_f">F^F</string>
+    <string name="confirm">Confirm</string>
 </resources>
