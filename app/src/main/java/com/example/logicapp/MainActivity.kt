@@ -28,12 +28,7 @@ class MainActivity : AppCompatActivity() {
         val f = "F"
 
         // if all values are correct
-        if (tt_input.text.toString() == t &&
-            tf_input.text.toString() == f &&
-            ft_input.text.toString() == f &&
-            ff_input.text.toString() == f) {
-            return true
-        }
-        return false
+        return tt_input.text.toString() == t && tf_input.text.toString() == f &&
+            ft_input.text.toString() == f && ff_input.text.toString() == f
     }
 }
